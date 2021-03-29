@@ -1,0 +1,19 @@
+{
+  "name": "flatpick-month-calendar-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "monthCalendarSelect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvedad/flatpick-month-calendar-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvedad/flatpick-month-calendar-plugin/issues"
+  },
+  "homepage": "https://github.com/bvedad/flatpick-month-calendar-plugin#readme"
+}
